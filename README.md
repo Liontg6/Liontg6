@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Liontg6
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Secruity
+- 🌱 I’m currently learning php
 - 📫 How to reach me lionfielitz@gmail.com
 
 <!---
